@@ -32,3 +32,4 @@ Wilmer Santiago Arce Aguilar
 
 ## 📄 Licencia
 
+GNU General Public License v3.0
