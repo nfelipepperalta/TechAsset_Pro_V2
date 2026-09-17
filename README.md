@@ -25,10 +25,15 @@ Reducir los errores manuales, mejorar la trazabilidad de los activos tecnológic
 ## 👥 Equipo
 
 Oscar Leonardo Gomez Romero
+
 Nelson Felipe Paez Peralta
+
 Juan Diego Portela Rojas
+
 Jhoan estiven martinez sabogal
+
 Wilmer Santiago Arce Aguilar
+
 
 ## 📄 Licencia
 
