@@ -1,0 +1,9 @@
+.env
+vendor/
+*.log
+cache_predicciones.json
+/public/uploads/
+*.tar.gz
+*.rdp
+__pycache__/
+*.pyc

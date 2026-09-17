@@ -1,0 +1,8 @@
+Options -Indexes
+
+RewriteEngine On
+
+# Redirigir todo a public/index.php excepto archivos estáticos reales
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
